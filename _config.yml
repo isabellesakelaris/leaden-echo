@@ -9,6 +9,7 @@ description: An INFO-664 Project
 # .github/workflows/pages.yml), so Jekyll should skip it.
 exclude:
   - notebook
+  - helpful
 
 #Fixes "double heading" error sometimes seen on certain themes
 titles_from_headings:
